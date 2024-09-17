@@ -8,7 +8,6 @@ Back-end developer 🌎👨🏻‍💻 <br>
 Avaliable in Portuguese and English 
 
 Brazil, São Paulo 🏠 <br>
-henriquesoaresrocha@gmail.com
 
 ## ✨Tech Stack
 
