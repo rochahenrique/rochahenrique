@@ -2,7 +2,7 @@
 ## Hi, I'm Henrique Rocha! 👋🏼
 
 
-### Welcome to my Github!!! 😊
+### Welcome to my Github!
 
 Back-end developer 🌎👨🏻‍💻 <br>
 Avaliable in Portuguese and English 
